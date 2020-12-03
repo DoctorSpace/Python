@@ -2,7 +2,7 @@
 
 1. Using python 2.7.18 (April 20, 2020) <a  href="https://www.python.org/downloads/release/python-2718/"> Download </a>
 2. Install Python (example "C:\Programs\Python")
-3. Open cmd, and enter "pip install --upgrade pip", dont close cmd
+3. Open cmd, and enter ```pip install --upgrade pip```, dont close cmd
 
 4. Add vk_api enter in cmd ```cd C:\Programs\Python\Scripts``` then ```pip2 install vk_api```
 5. Add pythoncom in cmd ```pip install pypiwin32```
