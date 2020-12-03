@@ -1,4 +1,4 @@
-# Python
+# Python 2.7
 
 1. Using python 2.7.18 (April 20, 2020) <a  href="https://www.python.org/downloads/release/python-2718/"> Download </a>
 2. Install Python (example "C:\Programs\Python")
