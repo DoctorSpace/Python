@@ -7,6 +7,8 @@ Needed to add a third-party game to Steam. Pros:
 * You can add games from Uplay, Battle.net, Origin
 
 
+Don't work =(
+
 For customization you need:
 
 0) Install Phython 3.9.2 <a  href="https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe"> Download </a> | Prescribe the path to it 
