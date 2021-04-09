@@ -25,6 +25,7 @@ def main(login):
     while 1:
         #Время задежки
         Time_for_wait = 5
+        driver.get("https://www.pepper.ru/new") 
     
         for _ in range(60*Time_for_wait):
             try:
