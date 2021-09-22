@@ -4,7 +4,7 @@
 2. Install Python (example "C:\Programs\Python")
 3. Open cmd, and enter ```cd C:\Programs\Python\Scripts``` then ```pip install --upgrade pip```, dont close cmd
 
-4. Add vk_api enter in cmd ```pip2 install vk_api```
+4. Add vk_api, work Version v11.6.0 <a  href="https://github.com/python273/vk_api/releases/tag/v11.6.0"> Download </a> (you need to transfer scripts to ("C:\Programs\Python\Lib\site-packages")
 5. Add pythoncom in cmd ```pip install pypiwin32```
 6. Add pyHook <a  href="https://download.lfd.uci.edu/pythonlibs/z4tqcw5k/cp27/pyHook-1.5.1-cp27-cp27m-win_amd64.whl"> Download </a> |
 <a  href="https://github.com/X3eRo0/NR_RAT_BETA/blob/master/pyHook-1.5.1-cp27-cp27m-win_amd64.whl"> Mirror </a> 
