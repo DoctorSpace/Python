@@ -1,7 +1,7 @@
 import vk_api
 from vk_api.longpoll import VkLongPoll, VkEventType
 from ctypes import *
-import time,os
+
 
 
 token = "x"  #token from the VK group
