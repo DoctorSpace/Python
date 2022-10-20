@@ -4,7 +4,7 @@ Needed to add a third-party game to Steam. Pros:
 * Display what game you are playing
 * Gamepad work
 * Save screenshots
-* You can add games from Uplay, Battle.net, Origin (Don't work =()
+* You can add games from Uplay, Battle.net, Origin ( Don't work =( )
 
 
 
