@@ -11,5 +11,5 @@
 Надеюсь хоть кому-нибудь пригодится данных код
 
 Нужно:
-Использовался Phython 3.9.2 <a  href="https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe"> Установить </a>
-Так же для работы необходимо установить библиотеку: ```pip install pillow```
+1) Использовался Phython 3.9.2 <a  href="https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe"> Установить </a>
+2) Так же для работы необходимо установить библиотеку: ```pip install pillow```
