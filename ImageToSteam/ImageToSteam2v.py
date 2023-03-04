@@ -15,7 +15,7 @@ destination_path = r'C:\Programs\Launchers\Steam\userdata\163259359\760\remote\1
 #destination_path = input()
 print('Добавить название картинки от которой вставлять фотки (пример: 20230223012126_1.jpg): ')
 #image_stop = input()
-image_stop =  r'20230225164529_1.jpg'
+image_stop =  r'20230225164601_2.jpg'
 
 ############ 
 
@@ -53,12 +53,19 @@ if len(arr_img) <= count_good_photo:
     print('Список маленький, сделайте ещё фотографий вторичной игры')
 
 count_arr = 0
+
 # Переименовка файлов
 for file_name in os.listdir(source_folder):
     source = source_folder + file_name
     new_sourse = source_folder + arr_img[count_arr]
     count_arr = count_arr + 1
+
+    img = Image.open(source)
+    img = img.convert('RGB')
+    img.save(source_folder + file_name, quality=90)
+
     os.rename(source, new_sourse)
+
 
 
 
@@ -68,7 +75,7 @@ for file_name in os.listdir(source_folder):
     img = Image.open(source)
     img = img.convert('RGB')
     new_image = img.resize((200, 112))
-    new_image.save(destination_thumbnails_folder + file_name)
+    new_image.save(destination_thumbnails_folder + file_name, quality=75)
 
 
 # Копировать файлы из Исходного в Назначение
