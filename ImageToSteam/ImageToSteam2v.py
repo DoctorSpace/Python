@@ -66,6 +66,7 @@ for file_name in os.listdir(source_folder):
 for file_name in os.listdir(source_folder):
     source = source_folder + file_name
     img = Image.open(source)
+    img = img.convert('RGB')
     new_image = img.resize((200, 112))
     new_image.save(destination_thumbnails_folder + file_name)
 
