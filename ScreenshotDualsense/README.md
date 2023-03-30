@@ -13,4 +13,4 @@ How to use:
 
 With the <a  href="https://github.com/DoctorSpace/Python/tree/main/ImageToSteam"> ImageToSteam </a> script, you can quickly upload the resulting screenshots to Steam
 
-[<img alt='Here is the button Shere' target="_blank" src="https://github.com/DoctorSpace/DoctorSpace/blob/main/ScreenshotDualsense/Share.png"/>]
+[<img alt='Here is the button Shere' target="_blank" src="https://github.com/DoctorSpace/DoctorSpace/blob/main/ScreenshotDualsense/Share.png"/>](https://github.com/DoctorSpace/Python/tree/main/ScreenshotDualsense)
