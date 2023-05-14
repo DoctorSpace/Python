@@ -1,3 +1,3 @@
 import os
 
-os.startfile('S:\Game\Blizzard\Call of Duty Modern Warfare\ModernWarfare.exe')
+os.system('S:\Game\Blizzard\Call of Duty Modern Warfare\ModernWarfare.exe')
