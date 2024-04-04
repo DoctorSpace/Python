@@ -5,7 +5,7 @@ How to use:
 1. Using python 3.10.9 <a  href="https://www.python.org/downloads/release/python-3109/"> Download </a>
 2. Install Python (example "C:\Programs\Python")
 3. Open cmd, and enter ```cd C:\Programs\Python\Scripts``` then ```pip install --upgrade pip```, dont close cmd
-4. Add pygame ```pip install pygame```
+4. Add pygame ```pip install pygame``` and ```pip install pywin32```
 5. Connect Dualsense
 6. Run "Start.bat"
 7. Click "Share" to take a screenshot in DualSense
