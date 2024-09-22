@@ -52,7 +52,7 @@ def main():
 
         # Customizing the Screenshot Button
         if controller_connected:
-            if joystick.get_button(4): # 4 = Share | 5 = PS | 6 = Option | 7 = L3 | 8 = R3 | 9 = L2 | 10 = R2
+            if joystick.get_button(4): # 4 = Share | 5 = PS | 6 = Option | 7 = L3 | 8 = R3 | 9 = L2 | 10 = R2 | 15 = Touch surface | 16 = micro
 
                 # Clicking on the gamepad
                 print("screen")
