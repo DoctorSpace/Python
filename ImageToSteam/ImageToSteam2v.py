@@ -10,12 +10,12 @@ from PIL import Image
 # destination - путь к папке со скриншотами
 print('Введите путь куда загружать фотографии (screenshots): ')
 #destination_path = input()
-destination_path = r'C:\Programs\Launchers\Steam\userdata\163259359\760\remote\15196443846402637824\screenshots\\'
+destination_path = r'C:\MyPrograms\launchers\Steam\userdata\163259359\760\remote\17227190455096049664\screenshots\\'
 
 #destination_path = input()
 print('Добавить название картинки от которой вставлять фотки (пример: 20230223012126_1.jpg): ')
 #image_stop = input()
-image_stop =  r'20230225164601_2.jpg'
+image_stop =  r'20241130125428_1.jpg'
 
 ############ 
 
